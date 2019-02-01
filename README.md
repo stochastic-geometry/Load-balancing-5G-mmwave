@@ -3,7 +3,7 @@
 ### Author: Chiranjib Saha and Harpreet S. Dhillon
 ### Email: csaha@vt.edu, hdhillon@vt.edu
 
-The code generates a two tier HetNet with correlated blocking, according to the system model described in [1, Section-II] and computes association probability according to Definition 1. 
+The code generates a two tier HetNet with correlated blocking, according to the system model described in [1, Section-II] and computes association probability according to [1,Definition 1]. 
 This code is used to estimate the blockage constant of the exponential blockage model, according to [1, Remark 3].  
 
 ### Instructions 
