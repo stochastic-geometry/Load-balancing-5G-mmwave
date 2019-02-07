@@ -1,8 +1,9 @@
-# Load-balancing-5G-mmwave
-## Matlab scripts for [1]
+# Load Balancing in 5G HetNets with Millimeter Wave Integrated Access and Backhaul
+## Supplementary Files
 ### Author: Chiranjib Saha and Harpreet S. Dhillon
 ### Email: csaha@vt.edu, hdhillon@vt.edu
 
+This repository contains the Matlab scripts related to the paper [1]. 
 The code generates a two tier HetNet with correlated blocking, according to the system model described in [1, Section-II] and computes association probability according to [1,Definition 1]. 
 This code is used to estimate the blockage constant of the exponential blockage model, according to [1, Remark 3].  
 
