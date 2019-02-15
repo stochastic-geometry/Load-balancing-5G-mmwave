@@ -1,5 +1,5 @@
 # Load Balancing in 5G HetNets with Millimeter Wave Integrated Access and Backhaul
-## Supplementary Files
+## Matlab Script
 ### Author: Chiranjib Saha and Harpreet S. Dhillon
 ### Email: csaha@vt.edu, hdhillon@vt.edu
 
